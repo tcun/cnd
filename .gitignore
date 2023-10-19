@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+data/
+*.pyc
+*.db  # ignoring SQLite database
+*.log
+*.egg-info/
